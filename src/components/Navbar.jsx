@@ -7,13 +7,13 @@ export default function Navbar() {
         </h1>
 
         <div className="space-x-8 text-gray-600 font-medium hidden md:flex">
-          <a href="#" className="hover:text-blue-600 transition">
+          <a href="#services" className="hover:text-blue-600 transition">
             Features
           </a>
-          <a href="#" className="hover:text-blue-600 transition">
+          <a href="#pricing" className="hover:text-blue-600 transition">
             Pricing
           </a>
-          <a href="#" className="hover:text-blue-600 transition">
+          <a href="#contact" className="hover:text-blue-600 transition">
             Contact
           </a>
         </div>
